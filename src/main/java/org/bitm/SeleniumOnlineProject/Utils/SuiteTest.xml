@@ -1,0 +1,10 @@
+<suite name="SeleniumOnlineProjectSuite" verbose="1" >
+  
+  <test name="NewToursSiteTest" >
+    <classes>
+       <class name="org.bitm.SeleniumOnlineProject.Test.LoginTest" />
+       <!-- <class name="org.bitm.SeleniumOnlineProject.Test.FlightFinderTest" /> -->
+    </classes>
+  </test>
+
+</suite>
